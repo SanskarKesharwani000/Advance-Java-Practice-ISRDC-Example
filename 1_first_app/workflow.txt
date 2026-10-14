@@ -1,0 +1,5 @@
+In this example home.html needs to be requested but index.html requests directly .
+
+web request -> home.html page
+
+http://localhost:3306/home.html
