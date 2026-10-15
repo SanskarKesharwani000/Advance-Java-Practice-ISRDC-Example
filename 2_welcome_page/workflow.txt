@@ -1,0 +1,5 @@
+Here index.html request directly if we write only our first app.
+
+web request -> index.html page
+
+http://localhost:3306/ or http://localhost:3306/index.html
