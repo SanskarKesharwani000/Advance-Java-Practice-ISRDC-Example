@@ -1,0 +1,5 @@
+In this we shows the correct structure of an application
+
+web request ->  index or home.html page
+
+http://localhost:3306/home.html or http://localhost:3306/
