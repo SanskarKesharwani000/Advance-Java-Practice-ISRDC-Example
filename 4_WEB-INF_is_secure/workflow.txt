@@ -1,0 +1,6 @@
+In this the WEB-INF folder is unreachable through request.
+
+web request -> pages -> index.html
+web request -> WEB-INF -> index.html
+
+http://localhost:3306/pages/ and http://localhost:3306/WEB-INF/index.html
